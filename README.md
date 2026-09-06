@@ -1,4 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.png" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Harshit Balouria</h1>
+
+<p align="center">
+  BCA Student | Frontend Developer | React & JavaScript
+</p>
 
 <!--
 **HarshitBalouria/HarshitBalouria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
